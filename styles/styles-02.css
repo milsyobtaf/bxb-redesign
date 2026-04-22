@@ -3921,7 +3921,7 @@ div.widget.editor img.fr-dib.fr-fil {
   background-color: #fafafa;
 }
 #headerContainerTS {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: #fff;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
 }
 @media (min-width: 53em) {
@@ -3948,7 +3948,7 @@ div.widget.editor img.fr-dib.fr-fil {
 #homeContainer1 {
   background-color: var(--background-blue);
   padding-top: 2em;
-  padding-bottom: 2em;
+  padding-bottom: 5em;
 }
 #footerContainerTS {
   background-color: var(--background-blue);
@@ -4127,8 +4127,7 @@ a:active {
 #banner1 {
 }
 #bannerLogoTS {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 1em;
 }
 .wide .mainNav {
   text-align: center;
