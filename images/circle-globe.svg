@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1749" data-name="Rectangle 1749" width="58" height="58" transform="translate(343 731)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="GB_WEB_GIS" data-name="GB WEB GIS" transform="translate(-343 -731)" clip-path="url(#clip-path)">
+    <g id="Group_10152" data-name="Group 10152" transform="translate(347 735)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="4.138" cy="4.138" r="4.138" transform="translate(10.932 14.242)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="24" cy="24" r="24" transform="translate(1 1)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_8740" data-name="Path 8740" d="M18.309,14.371C19.931,6.448,23.31,1,27.216,1c5.484,0,9.931,10.745,9.931,24q0,1.243-.051,2.454" transform="translate(-2.215)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_8741" data-name="Path 8741" d="M34.621,44.222c-1.822,5.154-4.53,8.421-7.554,8.421-5.371,0-9.745-10.3-9.925-23.172" transform="translate(-2.066 -3.643)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_8742" data-name="Path 8742" d="M25.042,17.388l.305-.088c12.707-3.644,24.231-2.335,25.739,2.923.873,3.044-1.8,6.744-6.673,10.028" transform="translate(-3.077 -1.822)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_8743" data-name="Path 8743" d="M29.514,36.805q-.82.262-1.662.5C15.145,40.952,3.621,39.644,2.113,34.385,1.1,30.838,4.895,26.4,11.375,22.768" transform="translate(-0.121 -2.786)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.965" cy="4.965" r="4.965" transform="translate(29.139 27.483)" fill="none" stroke="#0e164c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

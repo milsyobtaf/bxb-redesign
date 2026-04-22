@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1749" data-name="Rectangle 1749" width="58" height="58" transform="translate(343 731)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="GB_Online_Payments" data-name="GB Online Payments" transform="translate(-343 -731)" clip-path="url(#clip-path)">
+    <g id="Group_10140" data-name="Group 10140" transform="translate(346 741)">
+      <rect id="Rectangle_1748" data-name="Rectangle 1748" width="50" height="36" rx="3.865" transform="translate(1 1)" fill="none" stroke="#404040" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_8731" data-name="Path 8731" d="M48.9,13.788H46.728a3.177,3.177,0,1,1,0-6.353H48.9a3.177,3.177,0,1,1,0,6.353Z" transform="translate(-6.599 -1.141)" fill="none" stroke="#404040" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" x2="26.087" transform="translate(7.522 29.588)" fill="none" stroke="#404040" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_5" data-name="Line 5" x2="17.391" transform="translate(7.522 24.294)" fill="none" stroke="#404040" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

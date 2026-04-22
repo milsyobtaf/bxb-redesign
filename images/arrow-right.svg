@@ -1,0 +1,9 @@
+<svg><use
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xlink:href="#iconArrow--right" />
+    <symbol id="iconArrow--right" viewBox="0 0 25 25">
+      <title>Arrow Right</title>
+      <polygon
+      style="fill:currentcolor"
+      points="6.957,0 5.502,1.455 16.591,12.546 5.592,23.545 7.047,25 19.498,12.548" />
+    </symbol></svg>

@@ -1,0 +1,7 @@
+a {
+  pointer-events: none;
+}
+
+html {
+  width: 100% !important;
+}
